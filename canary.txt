@@ -1,0 +1,2 @@
+GHMCP-PUBLIC-UNTRUSTED-CANARY-20260727
+This is a harmless authorized security research marker.
